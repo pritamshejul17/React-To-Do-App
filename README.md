@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Here's is how home page of To Do application looks
+### Here's is how home page of To Do application looks
 
 ![to-do](https://user-images.githubusercontent.com/117113144/222953164-f6e3a145-8fc7-4c12-bfb1-c0bfc3d59528.PNG)
 
